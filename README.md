@@ -35,7 +35,7 @@
 
 #### 🖥️ Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,dotnet,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs&theme=dark)](https://skillicons.dev)
 
 
 #### 🔧 Tools
