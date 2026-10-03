@@ -40,17 +40,3 @@
 
 #### 🔧 Tools
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,git,github,docker,gcp,discord,notion,blender&theme=dark)](https://skillicons.dev)
-
-
-<p align="center">
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diploniss&theme=dark&hide_border=false" alt="Streak Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-    </td>
-  </tr>
-</table>
