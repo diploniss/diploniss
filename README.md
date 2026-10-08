@@ -29,6 +29,7 @@
 
 
 ## 🛠 &nbsp;Tech Stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diploniss&layout=compact&theme=radical)
 
 #### 🔧 Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,python,bash&theme=dark)](https://skillicons.dev)
